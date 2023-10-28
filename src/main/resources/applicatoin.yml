@@ -9,10 +9,10 @@ spring:
 
   jpa:
     hibernate:
-      ddl-auto: create
+      ddl-auto: none
+      show-sql: false
+      format_sql: false
       use-new-id-generator-mappings: false
-      format_sql: true
-    show-sql: true
     defer-datasource-initialization: true
 
   logging:
