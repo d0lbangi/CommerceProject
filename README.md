@@ -160,6 +160,10 @@
 <br>
 
 ## ERD
+![ERD](doc/img/commerceErd.png)
+
+## Trouble Shooting
+[트러블 슈팅 히스토리](doc/TROUBLE_SHOOTING.md)
 
 <br>
 
